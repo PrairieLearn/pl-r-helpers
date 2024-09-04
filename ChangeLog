@@ -1,3 +1,9 @@
+2024-09-03  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Authors@R): Added
+
+	* DESCRIPTION (Description): Reference stat447.com
+
 2021-08-31  Dirk Eddelbuettel  <edd@debian.org>
 
 	* NAMESPACE: Also export message_to_test_result
